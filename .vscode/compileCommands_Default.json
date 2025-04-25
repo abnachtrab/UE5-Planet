@@ -1,0 +1,74 @@
+[
+	{
+		"file": "C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\Source\\MyProject2\\MyProject2.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\.vscode\\compileCommands_Default\\MyProject2.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\Source\\MyProject2\\MyProject2.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\.vscode\\compileCommands_Default\\MyProject2.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\Source\\MyProject2\\MyProject2.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\.vscode\\compileCommands_Default\\MyProject2.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\Source\\MyProject2\\PlanetCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\.vscode\\compileCommands_Default\\MyProject2.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\Source\\MyProject2\\PlanetCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\.vscode\\compileCommands_Default\\MyProject2.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\Source\\MyProject2\\VoxelChunk.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\.vscode\\compileCommands_Default\\MyProject2.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\Source\\MyProject2\\VoxelChunk.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\.vscode\\compileCommands_Default\\MyProject2.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\Source\\MyProject2\\VoxelWorld.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\.vscode\\compileCommands_Default\\MyProject2.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\Source\\MyProject2\\VoxelWorld.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\abnac\\OneDrive\\Projects\\MyProject2\\.vscode\\compileCommands_Default\\MyProject2.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	}
+]
